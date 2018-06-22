@@ -1,10 +1,10 @@
 # README #
 
-A set of docker files for most common applications
+A set of optimized docker files for most common applications
 
 ### What is this repository for? ###
 
-* Quick summary: Contains optimized dockerfiles for various use cases like applications written in NodeJS, Typescript, Angular 4+ with NodeJS, etc.
+* Quick summary: Contains optimized dockerfiles for various use cases like applications written in NodeJS, Typescript, Java JAR app, etc.
 
 * Version 0.1
 
